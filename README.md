@@ -20,16 +20,16 @@
   </p>
 
   <div style="display: flex; gap: 10px;">
-    <a href="https://www.instagram.com/alexmf_666" target="_blank">
+    <!-- <a href="https://www.instagram.com/alexmf_666" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-    </a>
-    <a href="mailto:alexmondragon666@outlook.com" target="_blank">
+    </a> -->
+    <a href="mailto:ivancalderonburga@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
     </a>
-    <a href="https://www.linkedin.com/in/alex-mondragon-fernandez-626892252" target="_blank">
+    <a href="https://www.linkedin.com/in/ivan-calder%C3%B3n-burga-672a91374/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
-    <a href="https://wa.me/51937013789" target="_blank">
+    <a href="https://wa.me/51974865008" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
     </a>
   </div>

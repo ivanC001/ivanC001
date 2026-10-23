@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/ivan-calder%C3%B3n-burga-672a91374/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="linkedin logo" />
   </a>
-  <a href="mailto:ivancalderonburga@gmail.com" target="_blank">
+  <a href="https://mailto:ivancalderonburga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" alt="email logo" />
   </a>
   <a href="https://wa.me/51974865008" target="_blank">
@@ -84,15 +84,13 @@
 
 <br/>
 
-<!-- Animación de la serpiente -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivanC001/ivanC001/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivanC001/ivanC001/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ivanC001/ivanC001/output/snake.svg" width="100%" />
-</picture>
+<!-- Animación de la serpiente ajustada a tu carpeta local output/ -->
+<div align="center">
+  <img src="./output/snake.svg" alt="snake animation" width="100%" />
+</div>
 
 <br/><br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/ivanC001/count.svg?" alt="Profile Counter" />
-</div>
+</div> -->

@@ -91,6 +91,6 @@
 
 <br/><br/>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://profile-counter.glitch.me/ivanC001/count.svg?" alt="Profile Counter" />
-</div> -->
+</div> 

@@ -12,10 +12,10 @@
   <p>
     I am a <b>Systems Engineer</b> oriented toward developing scalable technological solutions, with professional experience in 
     <b>Laravel, REST APIs, technical support, and full-stack development</b>. Passionate about optimizing processes and adding value 
-    through innovation, efficiency, and robust security practices.
+    through innovation, efficiency, and robust security practices[cite: 2].
   </p>
   <p>
-    🌱 Currently working as a <b>Full-Stack Developer at RENTLY Travel S.A.S.</b><br>
+    🌱 Currently working as a <b>Full-Stack Developer at RENTLY Travel S.A.S.</b>[cite: 2]<br>
     🐧 Enthusiast of <b>Linux Environments & Cybersecurity</b>.
   </p>
 </div>
@@ -64,6 +64,7 @@
 
 <p align="left">
   ⭐ <strong>Bases de Datos, Cloud & Herramientas:</strong><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />

@@ -11,12 +11,12 @@
   <p>
     I am a <b>Systems Engineer</b> oriented toward developing scalable technological solutions, with professional experience in 
     <b>Laravel, REST APIs, technical support, and full-stack development</b>. Passionate about optimizing processes and adding value 
-    through innovation, efficiency, and robust security practices.
+    through innovation, efficiency, and robust security practices[cite: 2].
   </p>
 
   <p>
     🌱 Currently working as a <b>Full-Stack Developer at RENTLY Travel S.A.S.</b>[cite: 2]<br>
-    🐧 Enthusiast of <b>Linux Environments & Cybersecurity</b>.
+    🐧 Enthusiast of <b>Linux Environments, Servers & Cybersecurity</b>.
   </p>
 
   <div style="display: flex; gap: 10px;">
@@ -40,8 +40,11 @@
   <strong>Development & Programming:</strong><br>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
@@ -50,15 +53,18 @@
 </p>
 
 <p align="left">
-  <strong>Linux & Cybersecurity:</strong><br>
+  <strong>Servers, Ubuntu & Cybersecurity:</strong><br>
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Cybersecurity_%28C%7CEH%29-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking CEH" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" />
 </p>
 
 <p align="left">
-  <strong>Systems, Databases & Tools:</strong><br>
+  <strong>Databases, Cloud & Tools:</strong><br>
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />

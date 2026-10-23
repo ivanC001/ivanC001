@@ -72,10 +72,10 @@
 
 <h3>💼 Proyectos Destacados:</h3>
 <ul>
-  <li><b>Rently</b> (Full-Stack Developer @ RENTLY Travel): Sistema con Laravel y Angular, integración de Google Maps, Google Auth 2.0 y Meta Pixel[cite: 2].</li>
-  <li><b>AZURION (ERP-CRM & Facturador)</b>: Sistema empresarial y de emisión de comprobantes conectados a SUNAT (Spring Boot, Angular, Laravel)[cite: 2].</li>
-  <li><b>Mundo Farma</b>: Sistema de ventas y control de inventarios (Laravel, Blade, HTML)[cite: 2].</li>
-  <li><b>Kusay</b>: Sistema inmobiliario enfocado en gestión (Laravel, PHP)[cite: 2].</li>
+  <li><b>Rently</b> (Full-Stack Developer @ RENTLY Travel): Sistema con Laravel y Angular, integración de Google Maps, Google Auth 2.0 y Meta Pixel.</li>
+  <li><b>AZURION (ERP-CRM & Facturador)</b>: Sistema empresarial y de emisión de comprobantes conectados a SUNAT (Spring Boot, Angular, Laravel).</li>
+  <li><b>Mundo Farma</b>: Sistema de ventas y control de inventarios (Laravel, Blade, HTML).</li>
+  <li><b>Kusay</b>: Sistema inmobiliario enfocado en gestión (Laravel, PHP).</li>
 </ul>
 
 <br/>

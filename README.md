@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/ivan-calder%C3%B3n-burga-672a91374/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="linkedin logo" />
   </a>
-  <a href="https://mailto:ivancalderonburga@gmail.com" target="_blank">
+  <a href="mailto:ivancalderonburga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" alt="email logo" />
   </a>
   <a href="https://wa.me/51974865008" target="_blank">
@@ -84,7 +84,7 @@
 
 <br/>
 
-<!-- Animación de la serpiente ajustada a tu carpeta local output/ -->
+<!-- Animación de la serpiente cargando desde tu carpeta output/ existente -->
 <div align="center">
   <img src="./output/snake.svg" alt="snake animation" width="100%" />
 </div>
@@ -93,4 +93,4 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ivanC001/count.svg?" alt="Profile Counter" />
-</div> 
+</div>

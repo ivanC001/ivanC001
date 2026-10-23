@@ -1,25 +1,89 @@
-@@ -0,0 +1,67 @@<div align="center">  <h2>Hi there! I'm Alex Mondragón 👋</h2>  <h3>👨‍💻 Systems Engineer</h3></div><br/><div align="left">  <img align="right" height="150" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif" alt="Coding GIF" />  <p>    I am a <b>Systems Engineer</b> passionate about technology and software development.     My goal is to create scalable applications while constantly expanding my technical stack.     On my GitHub, you will find projects that reflect my professional journey in engineering.  </p>  <p>     🌱 I’m currently focused on <b>Web Development with Laravel & PHP</b>.<br>     🐧 Enthusiast of <b>Linux Environments</b>.  </p>  <div style="display: flex; gap: 10px;">    <a href="https://www.instagram.com/alexmf_666" target="_blank">      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />    </a>    <a href="mailto:alexmondragon666@outlook.com" target="_blank">      <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />    </a>    <a href="https://www.linkedin.com/in/alex-mondragon-fernandez-626892252" target="_blank">      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />    </a>    <a href="https://wa.me/51937013789" target="_blank">      <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />    </a>  </div></div><br clear="both"><h3>🛠 Tech Stack:</h3><p align="left">  <strong>Development:</strong><br>  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></p><p align="left">  <strong>Systems & Tools:</strong><br>  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  <img src="https://img.shields.io/badge/Networks-%232980b9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" /></p><br/><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" /><br/><div align="center">  <img src="https://profile-counter.glitch.me/Alexmondra/count.svg?" alt="Profile Counter" /></div>
+<div align="center">
+  <h2>Hi there! I'm IVAN CALDERON 👋</h2>
+  <h3>👨‍💻 Systems Engineer</h3>
+</div>
 
-Collapse file‎output/snake.yml‎Copy file name to clipboard+34Lines changed: 34 additions & 0 deletionsOriginal file line numberDiff line numberDiff line change@@ -0,0 +1,34 @@name: Generate snake animationon:  schedule: # execute every 12 hours    - cron: "* */12 * * *"  workflow_dispatch:  push:    branches:    - masterjobs:  generate:    permissions:      contents: write    runs-on: ubuntu-latest    timeout-minutes: 5    steps:      - name: generate snake.svg        uses: Platane/snk/svg-only@v3        with:          github_user_name: ${{ github.repository_owner }}          outputs: dist/snake.svg?palette=github-dark      - name: push snake.svg to the output branch        uses: crazy-max/ghaction-github-pages@v3.1.0        with:          target_branch: output          build_dir: dist        env:          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}Hi there! I'm IVAN CALDERON👋
+<br/>
 
-👨‍💻 Systems Engineer
+<div align="left">
+  <img align="right" height="150" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif" alt="Coding GIF" />
 
+  <p>
+    I am a <b>Systems Engineer</b> oriented toward developing scalable technological solutions, with professional experience in 
+    <b>Laravel, REST APIs, technical support, and full-stack development</b>. Passionate about optimizing processes and adding value 
+    through innovation, efficiency, and robust security practices.
+  </p>
 
+  <p>
+    🌱 Currently working as a <b>Full-Stack Developer at RENTLY Travel S.A.S.</b>[cite: 2]<br>
+    🐧 Enthusiast of <b>Linux Environments & Cybersecurity</b>.
+  </p>
 
+  <div style="display: flex; gap: 10px;">
+    <a href="mailto:ivancalderonburga@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="35" alt="email logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/ivan-calder%C3%B3n-burga-672a91374/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    </a>
+    <a href="https://wa.me/51974865008" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp logo" />
+    </a>
+  </div>
+</div>
 
+<br clear="both">
 
-I am a Systems Engineer passionate about technology and software development. My goal is to create scalable applications while constantly expanding my technical stack. On my GitHub, you will find projects that reflect my professional journey in engineering.
+<h3>🛠 Tech Stack & Enfoque:</h3>
 
-🌱 I’m currently focused on Web Development with Laravel & PHP.
+<p align="left">
+  <strong>Development & Programming:</strong><br>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
 
-🐧 Enthusiast of Linux Environments.
+<p align="left">
+  <strong>Linux & Cybersecurity:</strong><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Cybersecurity_%28C%7CEH%29-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking CEH" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" />
+</p>
 
+<p align="left">
+  <strong>Systems, Databases & Tools:</strong><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Networks-%232980b9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+</p>
 
+<br/>
 
+<h3>💼 Proyectos Destacados:</h3>
+<ul>
+  <li><b>Rently</b> (Full-Stack Developer @ RENTLY Travel): Sistema con Laravel y Angular, integración de Google Maps, Google Auth 2.0 y Meta Pixel[cite: 2].</li>
+  <li><b>AZURION (ERP-CRM & Facturador)</b>: Sistema empresarial y de emisión de comprobantes conectados a SUNAT (Spring Boot, Angular, Laravel)[cite: 2].</li>
+  <li><b>Mundo Farma</b>: Sistema de ventas y control de inventarios (Laravel, Blade, HTML)[cite: 2].</li>
+  <li><b>Kusay</b>: Sistema inmobiliario enfocado en gestión (Laravel, PHP)[cite: 2].</li>
+</ul>
 
-🛠 Tech Stack:
+<br/>
 
-Development:
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 
+<br/><br/>
 
-Systems & Tools:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ivanC001/count.svg?" alt="Profile Counter" />
+</div>
